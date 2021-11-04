@@ -1,0 +1,10 @@
+
+LHS:
+PC4 --> digital pin 33 --> green (trig)
+PC5 --> digital pin 32 --> blue (echo)
+
+
+RHS:
+
+PG0 --> digital pin 41 --> green (trig)
+PG1 --> digital pin 40 --> blue (echo)
